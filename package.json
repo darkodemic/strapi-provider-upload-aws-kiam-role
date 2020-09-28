@@ -20,23 +20,23 @@
     "isProvider": true
   },
   "author": {
-    "email": "hi@strapi.io",
-    "name": "Strapi team",
-    "url": "http://strapi.io"
+    "email": "mail@darkodemic.com",
+    "name": "Darko Demic",
+    "url": "https://darkodemic.com"
   },
   "maintainers": [
     {
-      "name": "Strapi team",
-      "email": "hi@strapi.io",
-      "url": "http://strapi.io"
+      "email": "mail@darkodemic.com",
+      "name": "Darko Demic",
+      "url": "https://darkodemic.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentybalez/strapi-provider-upload-aws-iam-role.git"
+    "url": "git+https://github.com/darkodemic/strapi-provider-upload-aws-iam-role.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/darkodemic/strapi-provider-upload-aws-iam-role/issues"
   },
   "engines": {
     "node": ">= 10.0.0",
