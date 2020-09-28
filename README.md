@@ -1,4 +1,6 @@
-# strapi-provider-upload-aws-iam-role
+# strapi-provider-upload-aws-kiam-role
+
+Allows for usage with KIAM auth as well as S3 encryption.
 
 ## Resources
 
