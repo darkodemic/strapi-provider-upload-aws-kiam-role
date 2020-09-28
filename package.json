@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-kiam",
-  "version": "3.0.0-alpha.2",
+  "version": "3.0.0-alpha.3",
   "description": "AWS S3 provider for strapi upload using credentials from IAM roles",
   "homepage": "https://github.com/darkodemic/strapi-provider-upload-aws-kiam-role",
   "keywords": [
